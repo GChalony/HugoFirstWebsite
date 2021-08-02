@@ -108,4 +108,5 @@
 * Pour la cuisson, la température du four doit être indiquée en **degrés Celsius**.
 
 ### Remarques&nbsp;:
+
 * Des remarques peuvent être ajoutées pour aider le cuisinier. Si celles-ci sont ponctuelles et destinées à indiquer des pistes d'amélioration en vue de prochains essais avant d'être intégrées, elles seront placées au début de la recette. Si celles-ci sont générales et concernent, par exemple, une possibilité de remplacer un aliment, elles seront placées en fin de recette.
